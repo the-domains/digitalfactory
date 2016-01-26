@@ -1,0 +1,28 @@
+name: digitalfactory
+favicon: null
+layout_spectrum: 0.6558411456644535
+typography_spectrum: 0.386212176643312
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.21458423929288983
+  lightness: 0.9287080552894622
+  saturation: 0.11595976538956165
+  rhythmicContrast: 0.041405821684747934
+purpose: []
